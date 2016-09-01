@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv= "content-type" content= "text/html; charset=utf-8">
 <link rel = "stylesheet" type= "text/css" media "screen "href= "style.css">
-	<title>簡易訂單</title>
+	<title>簡易訂單abcd</title>
 	</head>
 	<?php
 // check name
